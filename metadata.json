@@ -1,0 +1,6 @@
+{
+  "name": "PharmaCare",
+  "description": "Solusi kesehatan terpercaya untuk pemesanan obat resep, vitamin, dan produk kesehatan secara online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
